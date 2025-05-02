@@ -23,7 +23,7 @@ After that, open the backend/config/config.env file and update the MongoDB conne
 
 ```bash
 ...
-DB_LOCAL_URI=mongodb://localhost:27017/ecom
+DB_LOCAL_URI=mongodb://localhost:27017/intern-ecom
 ```
 
 Navigate back to the "root" folder and run this command to load demo data:
