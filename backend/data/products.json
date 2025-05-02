@@ -1,0 +1,129 @@
+[
+    {
+      "_id": "67fa64d36bf68606227a6b40",
+      "name": "Premium Basmati Rice (5kg)",
+      "price": 20.00,
+      "description": "High-quality long-grain basmati rice with rich aroma, ideal for biryani and special meals.",
+      "ratings": "4.7",
+      "images": [
+        { "image": "/images/products/1.jpg" },
+        { "image": "/images/products/1.jpg" }
+      ],
+      "category": "Grains & Cereals",
+      "seller": "AgroMart",
+      "stock": 20,
+      "numOfReviews": 12,
+      "reviews": [],
+      "createdAt": "2025-04-12T13:10:00.000+00:00",
+      "__v": 0
+    },
+    {
+      "_id": "67fa64d36bf68606227a6b41",
+      "name": "Fresh Country Chicken (1kg)",
+      "price": 10.00,
+      "description": "Tender, antibiotic-free country chicken directly sourced from local farms.",
+      "ratings": "4.6",
+      "images": [
+        { "image": "/images/products/2.jpg" },
+        { "image": "/images/products/2.jpg" }
+      ],
+      "category": "Meat & Poultry",
+      "seller": "FarmFresh",
+      "stock": 15,
+      "numOfReviews": 9,
+      "reviews": [],
+      "createdAt": "2025-04-12T13:11:15.000+00:00",
+      "__v": 0
+    },
+    {
+      "_id": "67fa64d36bf68606227a6b42",
+      "name": "Organic Eggs (Pack of 6)",
+      "price": 3.00,
+      "description": "Fresh organic eggs from free-range hens, rich in protein and omega-3.",
+      "ratings": "4.5",
+      "images": [
+        { "image": "/images/products/3.jpg" },
+        { "image": "/images/products/3.jpg" }
+      ],
+      "category": "Dairy & Eggs",
+      "seller": "GreenFarm",
+      "stock": 30,
+      "numOfReviews": 10,
+      "reviews": [],
+      "createdAt": "2025-04-12T13:12:45.000+00:00",
+      "__v": 0
+    },
+    {
+      "_id": "67fa64d36bf68606227a6b43",
+      "name": "Artisanal Goat Cheese (200g)",
+      "price": 25.00,
+      "description": "Soft and creamy goat cheese handcrafted using traditional methods.",
+      "ratings": "4.4",
+      "images": [
+        { "image": "/images/products/4.jpg" },
+        { "image": "/images/products/4.jpg" }
+      ],
+      "category": "Dairy & Eggs",
+      "seller": "CheeseCraft",
+      "stock": 25,
+      "numOfReviews": 6,
+      "reviews": [],
+      "createdAt": "2025-04-12T13:13:30.000+00:00",
+      "__v": 0
+    },
+    {
+      "_id": "67fa64d36bf68606227a6b44",
+      "name": "Raw Organic Honey (500g)",
+      "price": 30.00,
+      "description": "Natural raw honey with no added sugar, rich in antioxidants and enzymes.",
+      "ratings": "4.8",
+      "images": [
+        { "image": "/images/products/5.jpg" },
+        { "image": "/images/products/5.jpg" }
+      ],
+      "category": "Condiments & Sweeteners",
+      "seller": "BeePure",
+      "stock": 40,
+      "numOfReviews": 19,
+      "reviews": [],
+      "createdAt": "2025-04-12T13:14:00.000+00:00",
+      "__v": 0
+    },
+    {
+      "_id": "67fa64d36bf68606227a6b45",
+      "name": "Desi Tomatoes (1kg)",
+      "price": 5.00,
+      "description": "Juicy, naturally grown desi tomatoes perfect for cooking or salads.",
+      "ratings": "4.3",
+      "images": [
+        { "image": "/images/products/6.jpg" },
+        { "image": "/images/products/6.jpg" }
+      ],
+      "category": "Vegetables",
+      "seller": "VillageCart",
+      "stock": 100,
+      "numOfReviews": 7,
+      "reviews": [],
+      "createdAt": "2025-04-12T13:15:20.000+00:00",
+      "__v": 0
+    },
+    {
+      "_id": "67fa64d36bf68606227a6b46",
+      "name": "Farm Fresh Cow Milk (1L)",
+      "price": 2.00,
+      "description": "Pure, fresh cow milk sourced from local farms, pasteurized and ready to drink.",
+      "ratings": "4.6",
+      "images": [
+        { "image": "/images/products/7.jpg" },
+        { "image": "/images/products/7.jpg" }
+      ],
+      "category": "Dairy & Eggs",
+      "seller": "DailyDairy",
+      "stock": 50,
+      "numOfReviews": 24,
+      "reviews": [],
+      "createdAt": "2025-04-12T13:16:00.000+00:00",
+      "__v": 0
+    }
+  ]
+  
